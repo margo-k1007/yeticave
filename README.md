@@ -1,1 +1,1 @@
-# yeticave
+# Личный проект «YetiCave»
